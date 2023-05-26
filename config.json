@@ -1,7 +1,7 @@
-{"xdim":800,
-"ydim":600,
-"scale":5,
-"steps":1000,
-"decay":2.7,
+{"xdim":400,
+"ydim":300,
+"scale":2,
+"steps":500,
+"decay":5,
 "phermone_granularity":4
 }
